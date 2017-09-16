@@ -1,0 +1,18 @@
+{ 
+	"token"  : "YourTokenHere",
+	"prefix" : ".",
+	"dbLive" :
+  		{
+			"host"     : "yourHost",
+			"user"     : "yourUserName",
+			"password" : "yourSecretPass",
+			"database" : "yourDbName"
+		},
+	"dbIzio" :
+  		{
+			"host"     : "yourHost",
+			"user"     : "yourUserName",
+			"password" : "yourSecretPass",
+			"database" : "yourDbName"
+		}
+}
