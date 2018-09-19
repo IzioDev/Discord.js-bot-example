@@ -1,4 +1,4 @@
-# Another discord.js bot example! #
+# Another discord.js bot example!
 
  - Introduction
  - Basics
@@ -6,7 +6,7 @@
 ----------
 
 
-##Introduction : ##
+## Introduction :
 
 This is just another discord.js bot example. This is for the person who need examples to learn, maybe you could have some answers here, so I share!
 
@@ -14,7 +14,7 @@ As you could notice, this is not well commented/documented cause there are not m
 
 ----------
 
-##Basics :##
+## Basics :
 
 The project is very basic for now.
 You have :
